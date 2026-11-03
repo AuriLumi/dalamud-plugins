@@ -1,18 +1,18 @@
-# Plugins Dalamud d'Auri
+# Auri's Dalamud plugins
 
-Dépôt de plugins pour Dalamud (FINAL FANTASY XIV, XIVLauncher).
+Plugin repository for Dalamud (FINAL FANTASY XIV, XIVLauncher).
 
-## Installer
+## Install
 
-1. En jeu, ouvrir les réglages de Dalamud : `/xlsettings`.
-2. Onglet **Experimental**, section **Custom Plugin Repositories** : coller l'adresse ci-dessous, cocher la case, cliquer sur **+** puis **Save and Close**.
+1. In game, open the Dalamud settings: `/xlsettings`.
+2. In the **Experimental** tab, under **Custom Plugin Repositories**, paste the address below, tick the box, click **+**, then **Save and Close**.
 
    ```
    https://raw.githubusercontent.com/AuriLumi/dalamud-plugins/main/repo.json
    ```
 
-3. Ouvrir l'installateur de plugins (`/xlplugins`), chercher **Prisme** et l'installer.
+3. Open the plugin installer (`/xlplugins`), search for **Prisme** and install it.
 
 ## Plugins
 
-- **Prisme** : organise les mods Penumbra en vues liées aux collections, sans copier les mods. Nécessite Penumbra.
+- **Prisme**: organizes your Penumbra mods into views linked to collections, without copying the mods. Requires Penumbra.
