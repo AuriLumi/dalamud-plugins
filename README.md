@@ -11,8 +11,9 @@ Plugin repository for Dalamud (FINAL FANTASY XIV, XIVLauncher).
    https://raw.githubusercontent.com/AuriLumi/dalamud-plugins/main/repo.json
    ```
 
-3. Open the plugin installer (`/xlplugins`), search for **Prisme** and install it.
+3. Open the plugin installer (`/xlplugins`), search for **Prisme** or **Cabine** and install it.
 
 ## Plugins
 
 - **Prisme**: organizes your Penumbra mods into views linked to collections, without copying the mods. Requires Penumbra.
+- **Cabine**: a fitting room that lets you try Penumbra mods on a 3D copy of your character, without changing your character or what others see. Requires Penumbra and an empty Penumbra collection named `_cabine`.
