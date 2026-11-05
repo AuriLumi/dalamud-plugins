@@ -3,7 +3,7 @@
     "Author":  "Auri",
     "Name":  "Prisme",
     "InternalName":  "Prisme",
-    "AssemblyVersion":  "0.91.1.0",
+    "AssemblyVersion":  "0.91.2.0",
     "Punchline":  "Organize your Penumbra mods into views, without copying them.",
     "Description":  "Proof of concept: organize references to Penumbra mods into views linked to Penumbra collections, without copying mod data. Requires Penumbra.",
     "ApplicableVersion":  "any",
@@ -18,7 +18,7 @@
     "DownloadLinkInstall":  "https://raw.githubusercontent.com/AuriLumi/dalamud-plugins/main/plugins/Prisme/latest.zip",
     "DownloadLinkUpdate":  "https://raw.githubusercontent.com/AuriLumi/dalamud-plugins/main/plugins/Prisme/latest.zip",
     "DownloadLinkTesting":  "https://raw.githubusercontent.com/AuriLumi/dalamud-plugins/main/plugins/Prisme/latest.zip",
-    "LastUpdate":  "1793831836",
+    "LastUpdate":  "1793909148",
     "IconUrl":  "https://raw.githubusercontent.com/AuriLumi/dalamud-plugins/main/plugins/Prisme/icon.png"
 },
 {
