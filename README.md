@@ -15,5 +15,5 @@ Plugin repository for Dalamud (FINAL FANTASY XIV, XIVLauncher).
 
 ## Plugins
 
-- **Prisme**: organizes your Penumbra mods into views linked to collections, without copying the mods. Requires Penumbra.
-- **Cabine**: a fitting room that lets you try Penumbra mods on a 3D copy of your character, without changing your character or what others see. Requires Penumbra and an empty Penumbra collection named `_cabine`.
+- <img src="plugins/Prisme/icon.png" alt="" width="32" align="top"> **Prisme**: organizes your Penumbra mods into views linked to collections, without copying the mods. Requires Penumbra.
+- <img src="plugins/Cabine/icon.png" alt="" width="32" align="top"> **Cabine**: a fitting room that lets you try Penumbra mods on a 3D copy of your character, without changing your character or what others see. Requires Penumbra and an empty Penumbra collection named `_cabine`.

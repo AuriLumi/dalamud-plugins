@@ -18,7 +18,8 @@
     "DownloadLinkInstall":  "https://raw.githubusercontent.com/AuriLumi/dalamud-plugins/main/plugins/Prisme/latest.zip",
     "DownloadLinkUpdate":  "https://raw.githubusercontent.com/AuriLumi/dalamud-plugins/main/plugins/Prisme/latest.zip",
     "DownloadLinkTesting":  "https://raw.githubusercontent.com/AuriLumi/dalamud-plugins/main/plugins/Prisme/latest.zip",
-    "LastUpdate":  "1793831836"
+    "LastUpdate":  "1793831836",
+    "IconUrl":  "https://raw.githubusercontent.com/AuriLumi/dalamud-plugins/main/plugins/Prisme/icon.png"
 },
 {
     "Author":  "Auri",
@@ -39,6 +40,7 @@
     "DownloadLinkInstall":  "https://raw.githubusercontent.com/AuriLumi/dalamud-plugins/main/plugins/Cabine/latest.zip",
     "DownloadLinkUpdate":  "https://raw.githubusercontent.com/AuriLumi/dalamud-plugins/main/plugins/Cabine/latest.zip",
     "DownloadLinkTesting":  "https://raw.githubusercontent.com/AuriLumi/dalamud-plugins/main/plugins/Cabine/latest.zip",
-    "LastUpdate":  "1793905329"
+    "LastUpdate":  "1793905329",
+    "IconUrl":  "https://raw.githubusercontent.com/AuriLumi/dalamud-plugins/main/plugins/Cabine/icon.png"
 }
 ]
