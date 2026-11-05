@@ -25,7 +25,7 @@
     "Author":  "Auri",
     "Name":  "Cabine",
     "InternalName":  "Cabine",
-    "AssemblyVersion":  "0.13.0.0",
+    "AssemblyVersion":  "0.13.1.0",
     "Punchline":  "A fitting room: try Penumbra mods on a 3D copy of your character, without changing it.",
     "Description":  "Proof of concept. Shows a copy of your character drawn by the game, wearing a Penumbra collection reserved for trying (_cabine): change mods there, in Penumbra itself, and only the copy changes. Requires Penumbra.",
     "ApplicableVersion":  "any",
@@ -40,7 +40,7 @@
     "DownloadLinkInstall":  "https://raw.githubusercontent.com/AuriLumi/dalamud-plugins/main/plugins/Cabine/latest.zip",
     "DownloadLinkUpdate":  "https://raw.githubusercontent.com/AuriLumi/dalamud-plugins/main/plugins/Cabine/latest.zip",
     "DownloadLinkTesting":  "https://raw.githubusercontent.com/AuriLumi/dalamud-plugins/main/plugins/Cabine/latest.zip",
-    "LastUpdate":  "1793905329",
+    "LastUpdate":  "1793909165",
     "IconUrl":  "https://raw.githubusercontent.com/AuriLumi/dalamud-plugins/main/plugins/Cabine/icon.png"
 }
 ]
