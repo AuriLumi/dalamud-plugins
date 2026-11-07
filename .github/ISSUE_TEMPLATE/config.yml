@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question / Question
+    url: https://github.com/AuriLumi/dalamud-plugins/discussions
+    about: Une question sur Prisme ou Cabine, une idée ? Pose-la dans les Discussions. / A question or an idea? Ask it in the Discussions.

@@ -1,0 +1,30 @@
+name: Problème avec Prisme / Prisme bug
+description: Quelque chose ne marche pas dans Prisme. / Something doesn't work in Prisme.
+title: "[Prisme] "
+labels: ["prisme", "bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci de prendre le temps de signaler ce problème. Tu peux écrire en français ou en anglais.
+        Thanks for reporting this problem. You can write in French or English.
+  - type: textarea
+    id: what
+    attributes:
+      label: Que s'est-il passé ? / What happened?
+      description: Ce que tu as fait, ce que tu attendais, ce qui s'est passé à la place. / What you did, what you expected, what happened instead.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version de Prisme / Prisme version
+      placeholder: "0.0.0"
+    validations:
+      required: true
+  - type: textarea
+    id: report
+    attributes:
+      label: Rapport / Report
+      description: "Dans Prisme : Réglages > Aide > « Signaler un problème » copie ce rapport, colle-le ici. / In Prisme: Settings > Help > « Report a problem » copies this report, paste it here."
+      render: text
