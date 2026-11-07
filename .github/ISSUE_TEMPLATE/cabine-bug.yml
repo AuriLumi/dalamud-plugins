@@ -1,0 +1,30 @@
+name: Problème avec Cabine / Cabine bug
+description: Quelque chose ne marche pas dans Cabine. / Something doesn't work in Cabine.
+title: "[Cabine] "
+labels: ["cabine", "bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci de prendre le temps de signaler ce problème. Tu peux écrire en français ou en anglais.
+        Thanks for reporting this problem. You can write in French or English.
+  - type: textarea
+    id: what
+    attributes:
+      label: Que s'est-il passé ? / What happened?
+      description: Ce que tu as fait, ce que tu attendais, ce qui s'est passé à la place. / What you did, what you expected, what happened instead.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version de Cabine / Cabine version
+      placeholder: "0.0.0"
+    validations:
+      required: true
+  - type: textarea
+    id: report
+    attributes:
+      label: Rapport / Report
+      description: "Les lignes de Cabine dans le journal de Dalamud (/xllog), si tu les as. / Cabine's lines from the Dalamud log (/xllog), if you have them."
+      render: text
